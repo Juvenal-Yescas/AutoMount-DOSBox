@@ -6,7 +6,7 @@ cd Masm
 ml c:/projects/%arg1%.asm
 del c:\Masm\%arg1%.LNK
 del c:\Masm\%arg1%.OBJ
-cls
+if exist c:\Masm\%arg1%.exe cls
 c:\Masm\%arg1%.exe 
 cd..
 echo.
