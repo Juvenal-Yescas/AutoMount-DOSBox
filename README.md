@@ -18,3 +18,12 @@ Ensamblador Windows (Pronto linux, mac)
 
 ### 3. Resultado
 ![No Redeeemed Items](./img/screenshot-3.png)
+
+ERRORES
+=======
+
+```
+**fatal error A1000: cannot open file : ...**
+
+Reparar cambiando nombre al archivo compilando (recomendado a.asm)
+```
