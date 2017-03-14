@@ -21,9 +21,7 @@ Ensamblador Windows (Pronto linux, mac)
 
 ERRORES
 =======
-
-```
 **fatal error A1000: cannot open file : ...**
-
+```
 Reparar cambiando nombre al archivo compilando (recomendado a.asm)
 ```
