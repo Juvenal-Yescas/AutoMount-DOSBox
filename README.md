@@ -4,7 +4,6 @@ Ensamblador Windows (Pronto linux, mac)
 ### Herramientas
 * Dosbox [https://www.dosbox.com/](https://www.dosbox.com/)
 * Masm [http://www.masm32.com/](http://www.masm32.com/)
-* Bat To Exe [http://www.f2ko.de/en/ob2e.php](http://www.f2ko.de/en/ob2e.php)
 
 ## Instrucciones de uso
 
