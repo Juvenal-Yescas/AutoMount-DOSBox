@@ -1,6 +1,6 @@
 @ECHO OFF
 set arg1=%1
-echo %arg1%.exe >> files.txt
+echo %arg1%.exe >> compiled.txt
 del c:\Masm\%arg1%.exe
 cd Masm
 ml c:/projects/%arg1%.asm
