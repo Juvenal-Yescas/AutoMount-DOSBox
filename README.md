@@ -1,7 +1,10 @@
-# Ensamblador portable
-Ensamblador Windows (Pronto linux, mac)
+# Auto DOSBox-Masm
+Herramienta para ensamblar y ejecutar de forma rapida Masm.
 
-### Herramientas
+## Descarga
+Por ahora solo esta diponible para Windows  [DESCARGAR](https://github.com/Juve-yescas/Auto-DOSBox-Masm/releases)
+
+### Herramientas usadas
 * Dosbox [https://www.dosbox.com/](https://www.dosbox.com/)
 * Masm [http://www.masm32.com/](http://www.masm32.com/)
 
