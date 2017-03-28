@@ -2,6 +2,9 @@
 #include <cstdio>
 #include <algorithm>
 #include <windows.h>
+#include <string.h>
+#include <string>
+#include <sstream>
 
 #if       _WIN32_WINNT < 0x0500
 #undef  _WIN32_WINNT
