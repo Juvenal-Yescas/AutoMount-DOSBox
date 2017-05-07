@@ -1,14 +1,15 @@
 # Auto DOSBox-Masm
 Tool to assemble and execute quickly Masm.
+Herramienta para ensamblar y ejecutar rápidamente
 
-## Download
-Available for mac and windows (Soon linux) [Download](https://github.com/Juve-yescas/Auto-DOSBox-Masm/releases)
+## Descargar
+Disponible para Mac y Windows (Pronto linux) [Descargar](https://github.com/Juve-yescas/Auto-DOSBox-Masm/releases)
 
 ### Used Tools
 * Dosbox [https://www.dosbox.com/](https://www.dosbox.com/)
 * Masm [http://www.masm32.com/](http://www.masm32.com/)
 
-Mistakes
+Mistakes (Errores)
 =======
 **fatal error A1000: cannot open file : ...**
 ```
