@@ -1,21 +1,39 @@
-# Auto DOSBox-Masm
-Tool to assemble and execute quickly Masm.
-Herramienta para ensamblar y ejecutar rápidamente
 
-## Descargar
-Disponible para Mac y Windows (Pronto linux) [Descargar](https://github.com/Juve-yescas/Auto-DOSBox-Masm/releases)
+# What is AutoMount DOSBox?
+Auto mount directories
 
-## Como usar
-* En [Windows](https://github.com/Juve-yescas/Auto-DOSBox-Masm/tree/master/Windows)
-* En [macOS](https://github.com/Juve-yescas/Auto-DOSBox-Masm/tree/master/macOS)
+It is a tool to automatically mount the directories in dosbox, simply run and mount the directory where it is running.
+
+No commands required
+
+```
+mount c /directory
+c:
+```
+
+## Additional features
+* Contains Masm (Microsoft Assembler)
+* Script to assemble and execute quickly
+
+Note:
+> Extras can be removed if not desired (`Masm folder and ml.bat`)
+
+## How to use
+* In [Windows](Use-windows).
+* In [macOS](Use-macOs)
+* In [Linux](Use-linux)
+
+## To download
+Available for Mac and Windows (Soon linux) [Download](https://github.com/Juve-yescas/Auto-DOSBox-Masm/releases)
 
 ### Used Tools
-* Dosbox [https://www.dosbox.com/](https://www.dosbox.com/)
-* Masm [http://www.masm32.com/](http://www.masm32.com/)
+* Dosbox [https://www.dosbox.com](https://www.dosbox.com/)
+* Masm [http://www.masm32.com](http://www.masm32.com/)
+* Platypus [https://sveinbjorn.org/platypus](https://sveinbjorn.org/platypus)
+* Visual studio [https://www.visualstudio.com](https://www.visualstudio.com/)
 
-Mistakes (Errores)
-=======
-**fatal error A1000: cannot open file : ...**
-```
-Repair renaming the compiling file (recommended a.asm)
-```
+## 
+
+More specific information on the [wiki](https://github.com/Juve-yescas/AutoMount-DOSBox/wiki)
+
+
