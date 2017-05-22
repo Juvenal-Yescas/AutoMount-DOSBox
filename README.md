@@ -11,6 +11,8 @@ mount c /directory
 c:
 ```
 
+![No Redeeemed Items](https://raw.githubusercontent.com/Juve-yescas/Auto-DOSBox-Masm/master/img/example-use.gif)
+
 You can find more information about:
 * How to use
 * Download
